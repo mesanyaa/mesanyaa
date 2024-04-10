@@ -9,9 +9,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Main+stack)](https://git.io/typing-svg)
 <ul>
-  <li>HTML, CSS, SASS</li>
-  <li>JavaScript, TypeScript</li>
-  <li>React</li>
+  <li>HTML, CSS, JavaScript</li>
+  <li>Sass</li>
+  <li>TypeScript</li>
   <li>Bootstrap, jQuery</li>
 </ul>
 
