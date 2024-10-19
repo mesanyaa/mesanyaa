@@ -10,8 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Main+stack)](https://git.io/typing-svg)
 <ul>
   <li>HTML, CSS (+ Sass), JavaScript </li>
-  <li>TypeScript, React, Next.js</li>
-  <li>Bootstrap, jQuery</li>
+  <li>TypeScript, React </li>
+  <li>Bootstrap, jQuery </li>
 </ul>
-
-#### Resume: [click here](https://drive.google.com/drive/folders/1J0l6UAAqVDwm1BXRIUtOqxfddV7wXnSj?usp=drive_link)
